@@ -1,4 +1,4 @@
-# Laravel 8 推送桌面通知
+# Laravel 9 推送桌面通知
 
 引入 nunomaduro 的 laravel-desktop-notifier 套件來擴增推送桌面通知，該套件使用 JoliNotif 跨平台 PHP 函式庫來顯示桌面通知，因此當有新的訊息被接收到，便會在桌面用一個方框來顯示該訊息的內容，藉以提醒使用者需注意。
 
